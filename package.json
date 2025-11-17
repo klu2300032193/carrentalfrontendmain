@@ -1,0 +1,25 @@
+{
+  "name": "carrental-frontend-main-(1)",
+  "version": "1.0.0",
+  "description": "\"# carrentalfrontendmain\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klu2300032193/carrentalfrontendmain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/klu2300032193/carrentalfrontendmain/issues"
+  },
+  "homepage": "https://github.com/klu2300032193/carrentalfrontendmain#readme",
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
